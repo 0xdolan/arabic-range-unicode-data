@@ -32,8 +32,8 @@ def generate_unicode_json():
                     "Character": char,
                     "Character Name": char_name,
                     "Category": category,
-                    "RANGE": f"U+{start:04X}-U+{end:04X}",
-                    "RANGE_NAME": range_name,
+                    "Range": f"U+{start:04X}-U+{end:04X}",
+                    "Range Name": range_name,
                 }
             )
 
@@ -46,14 +46,14 @@ def generate_markdown():
         data = json.load(json_file)
 
     markdown_output = (
-        "| Code Point | Character | Character Name | Category | RANGE | RANGE_NAME |\n"
+        "| Code Point | Character | Character Name | Category | Range | Range Name |\n"
     )
     markdown_output += (
         "|------------|-----------|----------------|----------|-------|------------|\n"
     )
 
     for entry in data:
-        markdown_output += f"| {entry['Code Point']} | {entry['Character']} | {entry['Character Name']} | {entry['Category']} | {entry['RANGE']} | {entry['RANGE_NAME']} |\n"
+        markdown_output += f"| {entry['Code Point']} | {entry['Character']} | {entry['Character Name']} | {entry['Category']} | {entry['Range']} | {entry['Range Name']} |\n"
 
     with open("unicode_data.md", "w", encoding="utf-8") as markdown_file:
         markdown_file.write(markdown_output)

@@ -1,4 +1,4 @@
-| Code Point | Character | Character Name | Category | RANGE | RANGE_NAME |
+| Code Point | Character | Character Name | Category | Range | Range Name |
 |------------|-----------|----------------|----------|-------|------------|
 | U+0600 | ؀ | ARABIC NUMBER SIGN | Cf | U+0600-U+06FF | Arabic |
 | U+0601 | ؁ | ARABIC SIGN SANAH | Cf | U+0600-U+06FF | Arabic |
