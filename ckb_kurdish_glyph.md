@@ -125,8 +125,8 @@ To obtain Glyphs App, please visit the [Glyphs App Purchase Page](https://glyphs
 | heh-ar                | U+0647     | ه         | ARABIC LETTER HEH                                | Lo       | U+0600-U+06FF | Arabic                      |
 | heh-ar                | U+FEE9     | ﻩ         | ARABIC LETTER HEH ISOLATED FORM                  | Lo       | U+FE70-U+FEFF | Arabic Presentation Forms-B |
 | heh-ar.fina           | U+FEEA     | ﻪ         | ARABIC LETTER HEH FINAL FORM                     | Lo       | U+FE70-U+FEFF | Arabic Presentation Forms-B |
-| heh-ar.medi           | U+FEEB     | ﻫ         | ARABIC LETTER HEH INITIAL FORM                   | Lo       | U+FE70-U+FEFF | Arabic Presentation Forms-B |
-| heh-ar.init           | U+FEEC     | ﻬ         | ARABIC LETTER HEH MEDIAL FORM                    | Lo       | U+FE70-U+FEFF | Arabic Presentation Forms-B |
+| heh-ar.init           | U+FEEB     | ﻫ         | ARABIC LETTER HEH INITIAL FORM                   | Lo       | U+FE70-U+FEFF | Arabic Presentation Forms-B |
+| heh-ar.medi           | U+FEEC     | ﻬ         | ARABIC LETTER HEH MEDIAL FORM                    | Lo       | U+FE70-U+FEFF | Arabic Presentation Forms-B |
 | waw-ar                | U+0648     | و         | ARABIC LETTER WAW                                | Lo       | U+0600-U+06FF | Arabic                      |
 | waw-ar                | U+FEED     | ﻭ         | ARABIC LETTER WAW ISOLATED FORM                  | Lo       | U+FE70-U+FEFF | Arabic Presentation Forms-B |
 | waw-ar.fina           | U+FEEE     | ﻮ         | ARABIC LETTER WAW FINAL FORM                     | Lo       | U+FE70-U+FEFF | Arabic Presentation Forms-B |
